@@ -1,4 +1,4 @@
-# Charon - DoS Tool
+# Charon - DoS Attack Tool
 ## What is Charon?
 Charon is HTTP Denial of Service attack that affects threaded servers.
 
